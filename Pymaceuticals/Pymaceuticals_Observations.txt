@@ -1,0 +1,11 @@
+Observations
+
+Observation 1
+	Comparing the graphs of Metastatic Spread During Treatment  and Tumor Response to Treatment (volume)  showed that a decrease in tumor volume slows the metastatic spread of the disease but does not stop or reduce the increase of metastatic sites.
+
+Observation 2
+	Standard Error show that the change in error is consistant with respect to time duration and consistant between trial drugs.  Ideally this indicates a high level of standadization and consistancy during data recording and gathering.  
+
+Observation 3
+	Observing the trends in all of the graphs shows that there is a large number of ineffetive drugs compared to the number of effective drugs.  All of the scatter+error plots show a better performance for Placebo than for some of the trial drugs.
+
